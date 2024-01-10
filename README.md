@@ -1,5 +1,5 @@
 
-#To-Do List Application Readme
+#TaskMaster Application Readme
 Project Description
 
 This project is a fully functional to-do list application developed using Java for Android Studio with a SQLite database. The goal is to provide users with an intuitive and user-friendly interface to manage their tasks effectively. The application includes key features such as due dates, priority levels, task categorization, task status tracking, and the ability to store tasks using local storage.
